@@ -24,10 +24,8 @@ Using this data and various data analysis tools, we search to find meaningful in
 
 * What are the most common causes of collision in San Diego? What are San Diego zip codes with a high volume of collisions?
 
-  * **Findings:** The most common causes of collisions in San Diego include “No Turning Signals”, “Speeding”, “Vehicle Code Violation”, etc. 
-
-		Also, these collisions most commonly happen in high populated areas in San Diego such as: Pacific Beach, Mission Valley, Clairemont, etc.
-    		These findings are consistent with my experience living and commuting in San Diego. Based on these findings, we can inform drivers of their behaviors and help avoid more collisions. 
+  * **Findings:** The most common causes of collisions in San Diego include “No Turning Signals”, “Speeding”, “Vehicle Code Violation”, etc. Also, these collisions most commonly happen in high populated areas in San Diego such as: Pacific Beach, Mission Valley, Clairemont, etc.
+		  These findings are consistent with my experience living and commuting in San Diego. Based on these findings, we can inform drivers of their behaviors and help avoid more collisions. 
 
 ![Pie-Plot](images/pie_plot.png)
 
