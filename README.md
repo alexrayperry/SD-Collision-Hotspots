@@ -21,6 +21,7 @@ Using this data and various data analysis tools, we search to find meaningful in
 
 ![Bar2](images/Bar2.png)
 
+![Bar3](images/Bar3.png)
 
 * What are the most common causes of collision in San Diego? What are San Diego zip codes with a high volume of collisions?
 
