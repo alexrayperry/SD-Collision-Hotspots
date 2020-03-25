@@ -5,6 +5,7 @@
 In this project we have taken data produced by the City of San Diego - Police Division, which contains traffic collision data from 2018-Present.
 Using this data and various data analysis tools, we search to find meaningful insights on traffic collisions in the City of San Diego. The ultimate goal is to use these insights to make recommendations on how to reduce traffic collisions.
 
+## Link to Prezi Presentation: (https://prezi.com/view/lOSfHWlzNaSsjqI3qZ44/)
 
 ![Accident](images/accident.png)
 
