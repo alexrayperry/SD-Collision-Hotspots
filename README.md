@@ -13,7 +13,7 @@ Using this data and various data analysis tools, we search to find meaningful in
 * What is the total number of collisions involving pedestrians, bicyclists, and other motor vehicles? Is one a greater problem than the other. 
 
   * **Findings:** Vehicle to vehicle collisions, by far, outnumber the collisions with pedestrians and bicyclists. Collisions with other motor vehicles were thousands, while collisions amongst the other two categories remained under 200.
-		When looking at the data between Pedestrians and Bicylcists, we can see that collisions with pedestrians is the larger issue. This can be due to the sheer number of people vs bicyclist on the road, but this information 
+		When looking at the data between Pedestrians and Bicyclists, we can see that collisions with pedestrians is the larger issue. This can be due to the sheer number of people vs bicyclist on the road, but this information 
 		confirms that we should probably deploy more resources into making the streets safer for pedestrians, rather than bicyclist, which is where it seems a lot of resources tend to go. Further looking at the data for just Jan. to 
 		Feb. and including 2020, we can see that collisions amongst these two groups have declined withing 2020 from the prior years.
 
@@ -35,14 +35,13 @@ Using this data and various data analysis tools, we search to find meaningful in
 
   * **Findings:** Our data, when grouped by hour of the day, shows that the injuries from collisions are most common during rush hour traffic, from 5-6pm. The data also confirms that, as the day goes on, hour by hour, up until 6pm, the number
 		  injuries due to traffic collision increases. Whereas, the number of deaths due to traffic collisions does not appear to have any correlation with the time of day. The recorded number of deaths per hour are so low, between 0 and 11,
-		  and there appears to be no trend on what time a death due to collision will occur. In conclusion, we know we want to work on stopping collision during the "rush hour" times of the day.
+		  and there appears to be no trend showing what hour of the day a death due to a collision will occur. In conclusion, we know we want to work on stopping collision during the "rush hour" times of the day.
 
 ![Line1](images/Line1.png)
 
 ![Line2](images/Line2.png)
 
 
-TERV
 * What are the deadliest collision types, based on whether or not they kill or injure people?
 
   * **Findings:** Through this analysis, it became clear that certain collisions/violations were more prone to lead to deaths than injuries, even though the number of injuries are more common across all collisions. 
