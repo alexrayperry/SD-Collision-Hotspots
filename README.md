@@ -9,7 +9,7 @@ Using this data and various data analysis tools, we search to find meaningful in
 
 ![Accident](images/accident.png)
 
-### Questions & Conclusions
+### Questions & Observations
 
 * What is the total number of collisions involving pedestrians, bicyclists, and other motor vehicles? Is one a greater problem than the other. 
 
@@ -63,6 +63,17 @@ Using this data and various data analysis tools, we search to find meaningful in
 
 ![Heatmap](images/heatmap.png)
 
+### Summary and Conclusions
+
+* Injuries due to traffic collisions are highest during rush hour.
+* Most common causes of collisions are "No Turning Signals" and "Speeding."
+* Collisions are most common near busy cross streets, popular tourist & social destinations, and freeway off-ramps.
+* DUIs occur in the later hours when social interaction and drinking is more common & the deadliest collisions are when pedestrians are careless.
+
+* Our findings generally confirmed our hypotheses about San Diego Collision trends based on our own experiences.
+* We recommend increasing fines for most common violations.
+* We recommend deploying more police resources around rush hour. 
+ 
 
 ## Source Data
 * https://data.sandiego.gov/datasets/police-collisions/
