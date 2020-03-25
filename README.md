@@ -41,7 +41,22 @@ Using this data and various data analysis tools, we search to find meaningful in
 
 ![Line2](images/Line2.png)
 
+
+TERV
+* What are the deadliest collision types, based on whether or not they kill or injure people?
+
+  * **Findings:** Through this analysis, it became clear that certain collisions/violations were more prone to lead to deaths than injuries, even though the number of injuries are more common across all collisions. 
+		  It is clear that “J-walking” and “Pedestrians outside of Crosswalks” are the two deadliest collisions, since they lead to death more often than the other collisions, when you compare the amount injured to killed.
+
+![2bar](images/double_bar.png)
+
+*What is the most common time of the day for DUIs? 
+
+  * **Findings:** As any of us would anticipate, DUIs are most common at night, and least in the morning. 
+		  They are lowest from 6am-7am, and are plateaued until 1pm, and then begin to climb in the amount of DUIs for the rest of the day, until 9-10pm where they are the highest. From there, they begin to decline until the early morning (6am). 
   
+![2line](images/dui.png)
+
 * Where are collision hotspots in San Diego? Can we view these geo-spatially using a heatmap?
 
   * **Findings:** Collisions are most common near busy cross streets, popular tourist & social destinations, and freeway off-ramps. Areas with higher population density also tend to have higher incidents of collisions.
